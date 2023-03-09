@@ -1,0 +1,6 @@
+# .rubocop.yml
+inherit_from:
+  - https://raw.githubusercontent.com/rubocop/ruby-style-guide/master/.rubocop.yml
+
+AllCops:
+  TargetRubyVersion: 3.2
